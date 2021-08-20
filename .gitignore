@@ -1,2 +1,6 @@
 tests/fixtures/*/tmp
 node_modules
+.sonar/
+.scannerwork/
+
+test-reports/
