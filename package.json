@@ -1,5 +1,5 @@
 {
-  "name": "@grandvision/hard-source-webpack-plugin",
+  "name": "@grandvisionhq/hard-source-webpack-plugin",
   "publishConfig": {
     "access": "restricted"
   },
